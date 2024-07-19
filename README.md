@@ -7,7 +7,7 @@ https://www.lens.xyz/
 
 ## BrightID
 **Encrypted (0.8)**
-> Нужно пройти видео верификацию через zoom созвон в приложении BrightID.
+> Нужно пройти видео верификацию через zoom созвон в приложении BrightID.  
 https://www.youtube.com/watch?v=3Z0QsOJbfkQ
 
 

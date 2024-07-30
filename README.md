@@ -10,4 +10,9 @@ https://www.lens.xyz/
 > Нужно пройти видео верификацию через zoom созвон в приложении BrightID.  
 https://www.youtube.com/watch?v=3Z0QsOJbfkQ
 
+## Snapshot
+**Snapshot Proposal Creator (0.84)**
+> Сделать профиль в социальной сети Lens. Стоимость 5-10$ в MATIC.  
+https://www.youtube.com/watch?v=bzwSDjrPwr4  
+https://snapshot.org/#/
 

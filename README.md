@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=3Z0QsOJbfkQ
 https://www.youtube.com/watch?v=bzwSDjrPwr4  
 https://snapshot.org/#/
 
+## Gnosis Safe
+**Encrypted (0.82)**
+> Нужно сделать Safe Account в основной сети ETH и оплатить транзакцией. Делается всё за 2 минуты, стоимость будет по цене газа в моменте ~2$.  
+https://app.safe.global/welcome

@@ -25,3 +25,8 @@ https://app.safe.global/welcome
 **Encrypted (0.41)**
 > Сделать любой домен в сети .eth. Стоимость домена на год (5$ + цена газа в моменте ~ 2,5$).  
 https://app.ens.domains/
+
+## ZkSync
+**Engagement Explorer (1.67)**
+> Сделать любую транзакцию в сети zkSync Era.
+

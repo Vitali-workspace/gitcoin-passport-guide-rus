@@ -30,3 +30,11 @@ https://app.ens.domains/
 **Engagement Explorer (1.67)**
 > Сделать любую транзакцию в сети zkSync Era.
 
+
+## Guild Membership and Roles
+**Guild Admin (0.72)**
+> Для получения нужно быть админом в гильдии из 200 участников.
+
+**Guild Passport Member (0.54)**
+> Получить роль (O.G. PassportXYZ Maxis). Для получении роли нужен Gitcoin Passport с 25 score.  
+https://guild.xyz/gitcoinpassport

@@ -30,6 +30,16 @@ https://app.ens.domains/
 **Engagement Explorer (1.67)**
 > Сделать любую транзакцию в сети zkSync Era.
 
+**L2 Believer (1.67)**  
+> Дают за количество транзакций, но точное число неизвестно.
+ 
+**zkSync Champion (1.67)**  
+> Дают за количество транзакций, но точное число неизвестно.
+
+**Verified Transactor (0.61)**  
+> Сделать несколько транзакций в сети zkSync Era. Около 10-15 штук. Можно выбить клеймя NFT в сети zkSync Era на Galxe.  
+https://app.galxe.com/quest/Zz5R46vctTE5HokuNKCbPc
+
 
 ## Guild Membership and Roles
 **Guild Admin (0.72)**

@@ -1,5 +1,12 @@
 # gitcoin-passport-guide-rus
 
+
+## Gitcoin (7.6)  
+**at least $10 (0.5)**  
+**at least $100 (2)**  
+**at least $1000 (5)**  
+> Пожертвовать деньги проектам в Gitcoin.
+
 ## Lens
 **Lens Handle (0.93)**
 > Сделать профиль в социальной сети Lens. Стоимость 5-10$ в MATIC.  

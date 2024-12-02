@@ -1,5 +1,18 @@
 # gitcoin-passport-guide-rus
 
+
+## GTC Staking (14.2)
+**5 GTC Bronze (1)** 
+**20 GTC Silver (2)**
+**125 GTC Gold (3)**
+> Застейкать GTC, цена 1 GTC ~1$. Купить можно на Gate, Binance.
+> https://stake.passport.xyz/#/
+
+**Beginner Community Staker (1.51)**  
+**Experienced Community Staker (2.52)**  
+**Trusted Citizen (4.04)**  
+
+
 ## Idena (10.1)
 **Newbie (6)**  
 **Verified (2)**  
